@@ -1,0 +1,33 @@
+_repo: Robert-F.-Murray--Author-of-the-Scarlet-Gown---His-Poems--with-a-Memoir_1333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Murray, R. F. (Robert Fuller)
+    alias: Murray, Robert Fuller
+    birthdate: 1863
+    deathdate: 1894
+    gutenberg_agent_id: '607'
+    url: http://www.gutenberg.org/2009/agents/607
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- GITenberg
+title: 'Robert F. Murray (Author of the Scarlet Gown): His Poems; with a Memoir'
+url: http://www.gutenberg.org/ebooks/1333
