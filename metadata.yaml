@@ -1,5 +1,8 @@
 _repo: Robert-F.-Murray--Author-of-the-Scarlet-Gown---His-Poems--with-a-Memoir_1333
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Murray, R. F. (Robert Fuller)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1333#Robert-F.-Murray--Author-of-the-Scarlet-Gown---His-Poems--with-a-Memoir
 gutenberg_issued: '1998-06-01'
 gutenberg_type: Text
 identifiers:
